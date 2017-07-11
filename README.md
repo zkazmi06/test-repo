@@ -1,2 +1,2 @@
 # test-repo
-A test repository for Coursera's data science class.
+A test repository for Ben U's epic R programming class.
